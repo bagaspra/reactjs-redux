@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Bagas",
+      "alamat": "Makassar",
+      "umur": 24,
+      "nohp": "089775500784"
+    },
+    {
+      "id": 2,
+      "nama": "Qais",
+      "alamat": "jawa",
+      "umur": 21,
+      "nohp": "089772233484"
+    },
+    {
+      "id": 3,
+      "nama": "Babar",
+      "alamat": "Manado",
+      "umur": 26,
+      "nohp": "089222300784"
+    },
+    {
+      "id": 4,
+      "nama": "Bojes",
+      "alamat": "Papua",
+      "umur": 22,
+      "nohp": "089222111184"
+    },
+    {
+      "id": 5,
+      "nama": "Subed",
+      "alamat": "Sengkang",
+      "umur": 24,
+      "nohp": "0891112300784"
+    },
+    {
+      "id": 6,
+      "nama": "Yuni",
+      "alamat": "Kalimantan",
+      "umur": 18,
+      "nohp": "089235300784"
+    },
+    {
+      "id": 7,
+      "nama": "Jujit",
+      "alamat": "Makassar",
+      "umur": 7,
+      "nohp": "085778300784"
+    },
+    {
+      "id": 8,
+      "nama": "Jujang",
+      "alamat": "Ujung Pandang",
+      "umur": 5,
+      "nohp": "08900300784"
+    },
+    {
+      "id": 9,
+      "nama": "Uji",
+      "alamat": "Jakarta",
+      "umur": 16,
+      "nohp": "08235300784"
+    },
+    {
+      "id": 10,
+      "nama": "Ujan",
+      "alamat": "Malang",
+      "umur": 12,
+      "nohp": "0835600784"
+    },
+    {
+      "id": 11,
+      "nama": "Dian",
+      "alamat": "Pontianak",
+      "umur": 16,
+      "nohp": "08267300784"
+    },
+    {
+      "id": 12,
+      "nama": "Mare",
+      "alamat": "Bulukumba",
+      "umur": 24,
+      "nohp": "0825300784"
+    }
+  ]
+}
